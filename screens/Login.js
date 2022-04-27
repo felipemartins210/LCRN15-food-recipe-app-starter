@@ -52,7 +52,7 @@ const Login = ({ navigation }) => {
                                 lineHeight:45
                             }}
                         >
-                            Orégano de Pizza
+                            Restaurant Menu
                         </Text>
 
                     </LinearGradient>
@@ -79,7 +79,7 @@ const Login = ({ navigation }) => {
                             ...FONTS.body3
                         }}
                     >
-                        Viva uma esperiência gastronômica em sabor e serviço.
+                        Live a gastronomic experience!
                     </Text>
                 {/* Buttons  */}
                 <View
@@ -90,7 +90,7 @@ const Login = ({ navigation }) => {
                 >
                     {/* Button 1 */}
                         <CustomButton
-                            buttonText='Cardápio'
+                            buttonText='Menu'
                             buttonContainerStyle={{
                                 paddingVertical: 19,
                                 borderRadius: 20
@@ -101,7 +101,7 @@ const Login = ({ navigation }) => {
 
                     {/* Button 2 */}
                         <CustomButton
-                            buttonText='Unidades'
+                            buttonText='Address'
                             buttonContainerStyle={{
                                 marginTop: SIZES.radius,
                                 paddingVertical: 18,
