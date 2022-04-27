@@ -4,12 +4,12 @@ import icons from "./icons"
 const trendingRecipes = [
     {
         id: 1,
-        name: "Spaghetti ao molho Shrimp",
+        name: "Spaghetti With Shrimp Sauce",
         image: images.spagetti,
-        duration: "30 min",
+        duration: "30 mins",
         serving: 1,
         isBookmark: false,
-        category: "Pastas",
+        category: "Pasta",
         author: {
             profilePic: images.UserProfile5,
             name: "Maria",
@@ -18,14 +18,14 @@ const trendingRecipes = [
             {
                 id: 1,
                 icon: icons.pasta,
-                description: "Pasta Spaghetti",
+                description: "Spaghetti pasta",
                 quantity: "100g"
             },
             {
                 id: 2,
                 icon: icons.oil,
-                description: "Azeite de Oliva",
-                quantity: "2 colheres"
+                description: "Olive Oil",
+                quantity: "2 tbsp"
             },
             {
                 id: 3,
@@ -74,12 +74,12 @@ const trendingRecipes = [
     },
     {
         id: 2,
-        name: "Frango Malaysian Salteado",
+        name: "Malaysian Chicken Satay",
         image: images.satay,
-        duration: "50 min",
+        duration: "50 mins",
         serving: 10,
         isBookmark: true,
-        category: "Oriental",
+        category: "Local",
         author: {
             profilePic: images.UserProfile8,
             name: "Mandy",
@@ -144,10 +144,10 @@ const trendingRecipes = [
         id: 3,
         name: "Sarawak Laksa",
         image: images.laksa,
-        duration: "30 min",
+        duration: "30 mins",
         serving: 1,
         isBookmark: true,
-        category: "Tailândesa",
+        category: "Local",
         author: {
             profilePic: images.UserProfile9,
             name: "Jessie",
@@ -214,10 +214,10 @@ const trendingRecipes = [
         id: 4,
         name: "Nasi Lemak",
         image: images.nasiLemak,
-        duration: "1 hora",
+        duration: "1 hour",
         serving: 10,
         isBookmark: true,
-        category: "Árabe",
+        category: "Local",
         author: {
             profilePic: images.UserProfile7,
             name: "Ali Baba",
@@ -264,6 +264,7 @@ const trendingRecipes = [
 ]
 
 const categories = trendingRecipes
+
 
 export default {
     trendingRecipes,

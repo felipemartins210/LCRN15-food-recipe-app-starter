@@ -38,7 +38,7 @@ const Home = ({ navigation }) => {
                                 color: COLORS.darkGreen,
                                 ...FONTS.h2
                             }}
-                        >Hello ByProgrammers,</Text>
+                        >Hello Felipe Martins,</Text>
 
                         <Text
                             style={{
@@ -47,7 +47,7 @@ const Home = ({ navigation }) => {
                                 ...FONTS.body3
                             }}
                         >
-                            What you want to cook today?
+                            What experience will you live today?
                         </Text>
                     </View>
 
@@ -96,7 +96,7 @@ const Home = ({ navigation }) => {
                         ...FONTS.body3
                     }}
                     placeholderTextColor={COLORS.gray}
-                    placeholder='Buscar...'
+                    placeholder='Search Your Experience...'
                 />
             </View>
         )
@@ -143,7 +143,7 @@ const Home = ({ navigation }) => {
                             ...FONTS.body4
                         }}
                     >
-                        Novas delícias que preparamos para você! 
+                        Your have 12 recipes that you haven't tried yet! 
                     </Text>
 
                     <TouchableOpacity
@@ -159,7 +159,7 @@ const Home = ({ navigation }) => {
                                 ...FONTS.h4
                             }}
                         >
-                            Confira!
+                            Check now!
                         </Text>
                     </TouchableOpacity>
                 </View>
@@ -180,7 +180,7 @@ const Home = ({ navigation }) => {
                         ...FONTS.h2
                     }}
                 >
-                    Pratos em Destaque
+                    Trending Experiences!
                 </Text>
 
                 <FlatList 
@@ -222,7 +222,7 @@ const Home = ({ navigation }) => {
                         ...FONTS.h2
                     }}
                 >
-                    Categorias
+                    Categories
                 </Text>
 
                 {/* View All Button */}
@@ -233,7 +233,7 @@ const Home = ({ navigation }) => {
                             ...FONTS.body4
                         }}
                     >
-                        Ver tudo
+                        See All
                     </Text>
                 </TouchableOpacity>
             </View>
