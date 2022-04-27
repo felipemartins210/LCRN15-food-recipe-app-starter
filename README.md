@@ -17,6 +17,8 @@
 # Releases
 English Version [0.2b-En_US](https://github.com/felipemartins210/Restaurant-Menu-App/releases/tag/0.2b-En_US)
 
-[![Video Demonstration]({https://github.com/felipemartins210/Restaurant-Menu-App/blob/master/assets/icons/player-thumb.png})]({https://www.youtube.com/watch?v=su_xOZMiPKo} "Video Demonstration")
+
+https://user-images.githubusercontent.com/8534899/165620479-9ccb40fc-ed75-4c1f-9035-fe5a896defcb.mp4
+
 
 Versão Em Portugues [Em breve](#)
