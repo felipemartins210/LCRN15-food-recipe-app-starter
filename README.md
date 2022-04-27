@@ -13,3 +13,7 @@
 ## Linear Gradient
 
 - npm install react-native-linear-gradient --save
+
+# Releases
+English Version [0.2b-En_US](https://github.com/felipemartins210/Restaurant-Menu-App/releases/tag/0.2b-En_US)
+Versão Em Portugues [Em breve](#)
